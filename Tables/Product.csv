@@ -1,0 +1,1001 @@
+Product_id,Product_line,Unit_price
+p1,Health and beauty,74.69
+p2,Electronic accessories,15.28
+p3,Home and lifestyle,46.33
+p4,Health and beauty,58.22
+p5,Sports and travel,86.31
+p6,Electronic accessories,85.39
+p7,Electronic accessories,68.84
+p8,Home and lifestyle,73.56
+p9,Health and beauty,36.26
+p10,Food and beverages,54.84
+p11,Fashion accessories,14.48
+p12,Electronic accessories,25.51
+p13,Electronic accessories,46.95
+p14,Food and beverages,43.19
+p15,Health and beauty,71.38
+p16,Sports and travel,93.72
+p17,Health and beauty,68.93
+p18,Sports and travel,72.61
+p19,Food and beverages,54.67
+p20,Home and lifestyle,40.3
+p21,Electronic accessories,86.04
+p22,Health and beauty,87.98
+p23,Home and lifestyle,33.2
+p24,Electronic accessories,34.56
+p25,Sports and travel,88.63
+p26,Home and lifestyle,52.59
+p27,Fashion accessories,33.52
+p28,Fashion accessories,87.67
+p29,Food and beverages,88.36
+p30,Health and beauty,24.89
+p31,Fashion accessories,94.13
+p32,Sports and travel,78.07
+p33,Sports and travel,83.78
+p34,Health and beauty,96.58
+p35,Food and beverages,99.42
+p36,Sports and travel,68.12
+p37,Sports and travel,62.62
+p38,Electronic accessories,60.88
+p39,Health and beauty,54.92
+p40,Home and lifestyle,30.12
+p41,Home and lifestyle,86.72
+p42,Home and lifestyle,56.11
+p43,Sports and travel,69.12
+p44,Food and beverages,98.7
+p45,Health and beauty,15.37
+p46,Electronic accessories,93.96
+p47,Health and beauty,56.69
+p48,Food and beverages,20.01
+p49,Electronic accessories,18.93
+p50,Fashion accessories,82.63
+p51,Food and beverages,91.4
+p52,Food and beverages,44.59
+p53,Fashion accessories,17.87
+p54,Fashion accessories,15.43
+p55,Home and lifestyle,16.16
+p56,Electronic accessories,85.98
+p57,Home and lifestyle,44.34
+p58,Health and beauty,89.6
+p59,Home and lifestyle,72.35
+p60,Electronic accessories,30.61
+p61,Sports and travel,24.74
+p62,Home and lifestyle,55.73
+p63,Sports and travel,55.07
+p64,Sports and travel,15.81
+p65,Health and beauty,75.74
+p66,Health and beauty,15.87
+p67,Health and beauty,33.47
+p68,Fashion accessories,97.61
+p69,Sports and travel,78.77
+p70,Health and beauty,18.33
+p71,Food and beverages,89.48
+p72,Fashion accessories,62.12
+p73,Food and beverages,48.52
+p74,Electronic accessories,75.91
+p75,Home and lifestyle,74.67
+p76,Electronic accessories,41.65
+p77,Fashion accessories,49.04
+p78,Fashion accessories,20.01
+p79,Food and beverages,78.31
+p80,Health and beauty,20.38
+p81,Health and beauty,99.19
+p82,Food and beverages,96.68
+p83,Food and beverages,19.25
+p84,Food and beverages,80.36
+p85,Sports and travel,48.91
+p86,Sports and travel,83.06
+p87,Fashion accessories,76.52
+p88,Food and beverages,49.38
+p89,Sports and travel,42.47
+p90,Health and beauty,76.99
+p91,Home and lifestyle,47.38
+p92,Sports and travel,44.86
+p93,Sports and travel,21.98
+p94,Health and beauty,64.36
+p95,Health and beauty,89.75
+p96,Electronic accessories,97.16
+p97,Health and beauty,87.87
+p98,Electronic accessories,12.45
+p99,Food and beverages,52.75
+p100,Home and lifestyle,82.7
+p101,Fashion accessories,48.71
+p102,Fashion accessories,78.55
+p103,Electronic accessories,23.07
+p104,Food and beverages,58.26
+p105,Health and beauty,30.35
+p106,Electronic accessories,88.67
+p107,Fashion accessories,27.38
+p108,Sports and travel,62.13
+p109,Food and beverages,33.98
+p110,Electronic accessories,81.97
+p111,Sports and travel,16.49
+p112,Health and beauty,98.21
+p113,Fashion accessories,72.84
+p114,Home and lifestyle,58.07
+p115,Home and lifestyle,80.79
+p116,Fashion accessories,27.02
+p117,Fashion accessories,21.94
+p118,Fashion accessories,51.36
+p119,Food and beverages,10.96
+p120,Home and lifestyle,53.44
+p121,Electronic accessories,99.56
+p122,Sports and travel,57.12
+p123,Sports and travel,99.96
+p124,Home and lifestyle,63.91
+p125,Fashion accessories,56.47
+p126,Home and lifestyle,93.69
+p127,Sports and travel,32.25
+p128,Fashion accessories,31.73
+p129,Food and beverages,68.54
+p130,Sports and travel,90.28
+p131,Fashion accessories,39.62
+p132,Sports and travel,92.13
+p133,Sports and travel,34.84
+p134,Electronic accessories,87.45
+p135,Health and beauty,81.3
+p136,Fashion accessories,90.22
+p137,Electronic accessories,26.31
+p138,Home and lifestyle,34.42
+p139,Sports and travel,51.91
+p140,Sports and travel,72.5
+p141,Sports and travel,89.8
+p142,Health and beauty,90.5
+p143,Health and beauty,68.6
+p144,Food and beverages,30.41
+p145,Home and lifestyle,77.95
+p146,Health and beauty,46.26
+p147,Fashion accessories,30.14
+p148,Health and beauty,66.14
+p149,Home and lifestyle,71.86
+p150,Health and beauty,32.46
+p151,Fashion accessories,91.54
+p152,Sports and travel,34.56
+p153,Fashion accessories,83.24
+p154,Food and beverages,16.48
+p155,Sports and travel,80.97
+p156,Food and beverages,92.29
+p157,Electronic accessories,72.17
+p158,Home and lifestyle,50.28
+p159,Health and beauty,97.22
+p160,Sports and travel,93.39
+p161,Food and beverages,43.18
+p162,Sports and travel,63.69
+p163,Food and beverages,45.79
+p164,Sports and travel,76.4
+p165,Food and beverages,39.9
+p166,Health and beauty,42.57
+p167,Home and lifestyle,95.58
+p168,Fashion accessories,98.98
+p169,Food and beverages,51.28
+p170,Sports and travel,69.52
+p171,Health and beauty,70.01
+p172,Food and beverages,80.05
+p173,Electronic accessories,20.85
+p174,Electronic accessories,52.89
+p175,Food and beverages,19.79
+p176,Home and lifestyle,33.84
+p177,Food and beverages,22.17
+p178,Fashion accessories,22.51
+p179,Food and beverages,73.88
+p180,Health and beauty,86.8
+p181,Fashion accessories,64.26
+p182,Food and beverages,38.47
+p183,Sports and travel,15.5
+p184,Health and beauty,34.31
+p185,Sports and travel,12.34
+p186,Food and beverages,18.08
+p187,Home and lifestyle,94.49
+p188,Home and lifestyle,46.47
+p189,Home and lifestyle,74.07
+p190,Home and lifestyle,69.81
+p191,Home and lifestyle,77.04
+p192,Fashion accessories,73.52
+p193,Food and beverages,87.8
+p194,Home and lifestyle,25.55
+p195,Electronic accessories,32.71
+p196,Fashion accessories,74.29
+p197,Health and beauty,43.7
+p198,Home and lifestyle,25.29
+p199,Health and beauty,41.5
+p200,Food and beverages,71.39
+p201,Sports and travel,19.15
+p202,Electronic accessories,57.49
+p203,Electronic accessories,61.41
+p204,Health and beauty,25.9
+p205,Home and lifestyle,17.77
+p206,Health and beauty,23.03
+p207,Electronic accessories,66.65
+p208,Home and lifestyle,28.53
+p209,Fashion accessories,30.37
+p210,Electronic accessories,99.73
+p211,Electronic accessories,26.23
+p212,Food and beverages,93.26
+p213,Home and lifestyle,92.36
+p214,Sports and travel,46.42
+p215,Sports and travel,29.61
+p216,Home and lifestyle,18.28
+p217,Sports and travel,24.77
+p218,Electronic accessories,94.64
+p219,Fashion accessories,94.87
+p220,Food and beverages,57.34
+p221,Electronic accessories,45.35
+p222,Food and beverages,62.08
+p223,Electronic accessories,11.81
+p224,Fashion accessories,12.54
+p225,Food and beverages,43.25
+p226,Sports and travel,87.16
+p227,Health and beauty,69.37
+p228,Electronic accessories,37.06
+p229,Electronic accessories,90.7
+p230,Home and lifestyle,63.42
+p231,Fashion accessories,81.37
+p232,Electronic accessories,10.59
+p233,Health and beauty,84.09
+p234,Fashion accessories,73.82
+p235,Health and beauty,51.94
+p236,Sports and travel,93.14
+p237,Health and beauty,17.41
+p238,Fashion accessories,44.22
+p239,Electronic accessories,13.22
+p240,Fashion accessories,89.69
+p241,Food and beverages,24.94
+p242,Health and beauty,59.77
+p243,Fashion accessories,93.2
+p244,Home and lifestyle,62.65
+p245,Home and lifestyle,93.87
+p246,Home and lifestyle,47.59
+p247,Electronic accessories,81.4
+p248,Fashion accessories,17.94
+p249,Electronic accessories,77.72
+p250,Food and beverages,73.06
+p251,Food and beverages,46.55
+p252,Fashion accessories,35.19
+p253,Sports and travel,14.39
+p254,Home and lifestyle,23.75
+p255,Home and lifestyle,58.9
+p256,Fashion accessories,32.62
+p257,Electronic accessories,66.35
+p258,Home and lifestyle,25.91
+p259,Electronic accessories,32.25
+p260,Electronic accessories,65.94
+p261,Electronic accessories,75.06
+p262,Fashion accessories,16.45
+p263,Fashion accessories,38.3
+p264,Sports and travel,22.24
+p265,Sports and travel,54.45
+p266,Sports and travel,98.4
+p267,Home and lifestyle,35.47
+p268,Food and beverages,74.6
+p269,Home and lifestyle,70.74
+p270,Home and lifestyle,35.54
+p271,Sports and travel,67.43
+p272,Health and beauty,21.12
+p273,Home and lifestyle,21.54
+p274,Home and lifestyle,12.03
+p275,Health and beauty,99.71
+p276,Fashion accessories,47.97
+p277,Home and lifestyle,21.82
+p278,Fashion accessories,95.42
+p279,Fashion accessories,70.99
+p280,Sports and travel,44.02
+p281,Home and lifestyle,69.96
+p282,Home and lifestyle,37
+p283,Sports and travel,15.34
+p284,Health and beauty,99.83
+p285,Health and beauty,47.67
+p286,Health and beauty,66.68
+p287,Home and lifestyle,74.86
+p288,Sports and travel,23.75
+p289,Food and beverages,48.51
+p290,Home and lifestyle,94.88
+p291,Electronic accessories,40.3
+p292,Electronic accessories,27.85
+p293,Electronic accessories,62.48
+p294,Food and beverages,36.36
+p295,Health and beauty,18.11
+p296,Electronic accessories,51.92
+p297,Electronic accessories,28.84
+p298,Home and lifestyle,78.38
+p299,Home and lifestyle,60.01
+p300,Home and lifestyle,88.61
+p301,Fashion accessories,99.82
+p302,Health and beauty,39.01
+p303,Food and beverages,48.61
+p304,Electronic accessories,51.19
+p305,Electronic accessories,14.96
+p306,Electronic accessories,72.2
+p307,Sports and travel,40.23
+p308,Home and lifestyle,88.79
+p309,Electronic accessories,26.48
+p310,Fashion accessories,81.91
+p311,Sports and travel,79.93
+p312,Fashion accessories,69.33
+p313,Food and beverages,14.23
+p314,Health and beauty,15.55
+p315,Electronic accessories,78.13
+p316,Food and beverages,99.37
+p317,Food and beverages,21.08
+p318,Electronic accessories,74.79
+p319,Health and beauty,29.67
+p320,Health and beauty,44.07
+p321,Food and beverages,22.93
+p322,Health and beauty,39.42
+p323,Health and beauty,15.26
+p324,Fashion accessories,61.77
+p325,Home and lifestyle,21.52
+p326,Sports and travel,97.74
+p327,Food and beverages,99.78
+p328,Food and beverages,94.26
+p329,Health and beauty,51.13
+p330,Electronic accessories,36.36
+p331,Home and lifestyle,22.02
+p332,Food and beverages,32.9
+p333,Fashion accessories,77.02
+p334,Food and beverages,23.48
+p335,Sports and travel,14.7
+p336,Electronic accessories,28.45
+p337,Fashion accessories,76.4
+p338,Sports and travel,57.95
+p339,Electronic accessories,47.65
+p340,Food and beverages,42.82
+p341,Electronic accessories,48.09
+p342,Health and beauty,55.97
+p343,Health and beauty,76.9
+p344,Food and beverages,97.03
+p345,Sports and travel,44.65
+p346,Fashion accessories,77.93
+p347,Electronic accessories,71.95
+p348,Home and lifestyle,89.25
+p349,Electronic accessories,26.02
+p350,Health and beauty,13.5
+p351,Fashion accessories,99.3
+p352,Electronic accessories,51.69
+p353,Fashion accessories,54.73
+p354,Home and lifestyle,27
+p355,Electronic accessories,30.24
+p356,Food and beverages,89.14
+p357,Fashion accessories,37.55
+p358,Sports and travel,95.44
+p359,Electronic accessories,27.5
+p360,Sports and travel,74.97
+p361,Food and beverages,80.96
+p362,Food and beverages,94.47
+p363,Food and beverages,99.79
+p364,Home and lifestyle,73.22
+p365,Food and beverages,41.24
+p366,Fashion accessories,81.68
+p367,Electronic accessories,51.32
+p368,Home and lifestyle,65.94
+p369,Sports and travel,14.36
+p370,Electronic accessories,21.5
+p371,Electronic accessories,26.26
+p372,Fashion accessories,60.96
+p373,Home and lifestyle,70.11
+p374,Fashion accessories,42.08
+p375,Home and lifestyle,67.09
+p376,Fashion accessories,96.7
+p377,Home and lifestyle,35.38
+p378,Sports and travel,95.49
+p379,Fashion accessories,96.98
+p380,Electronic accessories,23.65
+p381,Sports and travel,82.33
+p382,Electronic accessories,26.61
+p383,Food and beverages,99.69
+p384,Food and beverages,74.89
+p385,Food and beverages,40.94
+p386,Sports and travel,75.82
+p387,Food and beverages,46.77
+p388,Health and beauty,32.32
+p389,Fashion accessories,54.07
+p390,Food and beverages,18.22
+p391,Fashion accessories,80.48
+p392,Fashion accessories,37.95
+p393,Electronic accessories,76.82
+p394,Sports and travel,52.26
+p395,Health and beauty,79.74
+p396,Health and beauty,77.5
+p397,Food and beverages,54.27
+p398,Home and lifestyle,13.59
+p399,Health and beauty,41.06
+p400,Electronic accessories,19.24
+p401,Food and beverages,39.43
+p402,Home and lifestyle,46.22
+p403,Home and lifestyle,13.98
+p404,Fashion accessories,39.75
+p405,Fashion accessories,97.79
+p406,Sports and travel,67.26
+p407,Food and beverages,13.79
+p408,Fashion accessories,68.71
+p409,Home and lifestyle,56.53
+p410,Fashion accessories,23.82
+p411,Health and beauty,34.21
+p412,Sports and travel,21.87
+p413,Health and beauty,20.97
+p414,Sports and travel,25.84
+p415,Home and lifestyle,50.93
+p416,Health and beauty,96.11
+p417,Home and lifestyle,45.38
+p418,Health and beauty,81.51
+p419,Health and beauty,57.22
+p420,Electronic accessories,25.22
+p421,Food and beverages,38.6
+p422,Electronic accessories,84.05
+p423,Fashion accessories,97.21
+p424,Fashion accessories,25.42
+p425,Fashion accessories,16.28
+p426,Fashion accessories,40.61
+p427,Health and beauty,53.17
+p428,Food and beverages,20.87
+p429,Sports and travel,67.27
+p430,Home and lifestyle,90.65
+p431,Fashion accessories,69.08
+p432,Food and beverages,43.27
+p433,Electronic accessories,23.46
+p434,Fashion accessories,95.54
+p435,Fashion accessories,47.44
+p436,Sports and travel,99.24
+p437,Sports and travel,82.93
+p438,Home and lifestyle,33.99
+p439,Food and beverages,17.04
+p440,Electronic accessories,40.86
+p441,Food and beverages,17.44
+p442,Sports and travel,88.43
+p443,Home and lifestyle,89.21
+p444,Fashion accessories,12.78
+p445,Sports and travel,19.1
+p446,Health and beauty,19.15
+p447,Food and beverages,27.66
+p448,Fashion accessories,45.74
+p449,Health and beauty,27.07
+p450,Sports and travel,39.12
+p451,Electronic accessories,74.71
+p452,Electronic accessories,22.01
+p453,Food and beverages,63.61
+p454,Health and beauty,25
+p455,Electronic accessories,20.77
+p456,Fashion accessories,29.56
+p457,Food and beverages,77.4
+p458,Electronic accessories,79.39
+p459,Electronic accessories,46.57
+p460,Food and beverages,35.89
+p461,Food and beverages,40.52
+p462,Food and beverages,73.05
+p463,Sports and travel,73.95
+p464,Food and beverages,22.62
+p465,Food and beverages,51.34
+p466,Sports and travel,54.55
+p467,Health and beauty,37.15
+p468,Sports and travel,37.02
+p469,Food and beverages,21.58
+p470,Electronic accessories,98.84
+p471,Home and lifestyle,83.77
+p472,Sports and travel,40.05
+p473,Fashion accessories,43.13
+p474,Health and beauty,72.57
+p475,Electronic accessories,64.44
+p476,Health and beauty,65.18
+p477,Sports and travel,33.26
+p478,Electronic accessories,84.07
+p479,Sports and travel,34.37
+p480,Electronic accessories,38.6
+p481,Food and beverages,65.97
+p482,Electronic accessories,32.8
+p483,Sports and travel,37.14
+p484,Home and lifestyle,60.38
+p485,Sports and travel,36.98
+p486,Sports and travel,49.49
+p487,Fashion accessories,41.09
+p488,Fashion accessories,37.15
+p489,Home and lifestyle,22.96
+p490,Home and lifestyle,77.68
+p491,Fashion accessories,34.7
+p492,Fashion accessories,19.66
+p493,Health and beauty,25.32
+p494,Home and lifestyle,12.12
+p495,Fashion accessories,99.89
+p496,Sports and travel,75.92
+p497,Electronic accessories,63.22
+p498,Food and beverages,90.24
+p499,Sports and travel,98.13
+p500,Sports and travel,51.52
+p501,Sports and travel,73.97
+p502,Fashion accessories,31.9
+p503,Home and lifestyle,69.4
+p504,Sports and travel,93.31
+p505,Sports and travel,88.45
+p506,Electronic accessories,24.18
+p507,Sports and travel,48.5
+p508,Food and beverages,84.05
+p509,Health and beauty,61.29
+p510,Home and lifestyle,15.95
+p511,Sports and travel,90.74
+p512,Home and lifestyle,42.91
+p513,Fashion accessories,54.28
+p514,Electronic accessories,99.55
+p515,Sports and travel,58.39
+p516,Fashion accessories,51.47
+p517,Health and beauty,54.86
+p518,Home and lifestyle,39.39
+p519,Home and lifestyle,34.73
+p520,Sports and travel,71.92
+p521,Electronic accessories,45.71
+p522,Home and lifestyle,83.17
+p523,Home and lifestyle,37.44
+p524,Health and beauty,62.87
+p525,Food and beverages,81.71
+p526,Sports and travel,91.41
+p527,Fashion accessories,39.21
+p528,Fashion accessories,59.86
+p529,Food and beverages,54.36
+p530,Sports and travel,98.09
+p531,Health and beauty,25.43
+p532,Fashion accessories,86.68
+p533,Electronic accessories,22.95
+p534,Food and beverages,16.31
+p535,Home and lifestyle,28.32
+p536,Home and lifestyle,16.67
+p537,Fashion accessories,73.96
+p538,Home and lifestyle,97.94
+p539,Fashion accessories,73.05
+p540,Food and beverages,87.48
+p541,Home and lifestyle,30.68
+p542,Health and beauty,75.88
+p543,Sports and travel,20.18
+p544,Electronic accessories,18.77
+p545,Food and beverages,71.2
+p546,Home and lifestyle,38.81
+p547,Fashion accessories,29.42
+p548,Sports and travel,60.95
+p549,Sports and travel,51.54
+p550,Electronic accessories,66.06
+p551,Fashion accessories,57.27
+p552,Fashion accessories,54.31
+p553,Health and beauty,58.24
+p554,Electronic accessories,22.21
+p555,Electronic accessories,19.32
+p556,Home and lifestyle,37.48
+p557,Fashion accessories,72.04
+p558,Food and beverages,98.52
+p559,Food and beverages,41.66
+p560,Home and lifestyle,72.42
+p561,Electronic accessories,21.58
+p562,Food and beverages,89.2
+p563,Electronic accessories,42.42
+p564,Electronic accessories,74.51
+p565,Fashion accessories,99.25
+p566,Food and beverages,81.21
+p567,Sports and travel,49.33
+p568,Fashion accessories,65.74
+p569,Fashion accessories,79.86
+p570,Sports and travel,73.98
+p571,Home and lifestyle,82.04
+p572,Sports and travel,26.67
+p573,Food and beverages,10.13
+p574,Food and beverages,72.39
+p575,Sports and travel,85.91
+p576,Fashion accessories,81.31
+p577,Food and beverages,60.3
+p578,Food and beverages,31.77
+p579,Health and beauty,64.27
+p580,Health and beauty,69.51
+p581,Food and beverages,27.22
+p582,Health and beauty,77.68
+p583,Fashion accessories,92.98
+p584,Fashion accessories,18.08
+p585,Sports and travel,63.06
+p586,Health and beauty,51.71
+p587,Food and beverages,52.34
+p588,Sports and travel,43.06
+p589,Fashion accessories,59.61
+p590,Health and beauty,14.62
+p591,Health and beauty,46.53
+p592,Home and lifestyle,24.24
+p593,Sports and travel,45.58
+p594,Sports and travel,75.2
+p595,Sports and travel,96.8
+p596,Health and beauty,14.82
+p597,Food and beverages,52.2
+p598,Sports and travel,46.66
+p599,Fashion accessories,36.85
+p600,Home and lifestyle,70.32
+p601,Electronic accessories,83.08
+p602,Fashion accessories,64.99
+p603,Food and beverages,77.56
+p604,Sports and travel,54.51
+p605,Fashion accessories,51.89
+p606,Home and lifestyle,31.75
+p607,Fashion accessories,53.65
+p608,Food and beverages,49.79
+p609,Fashion accessories,30.61
+p610,Food and beverages,57.89
+p611,Electronic accessories,28.96
+p612,Food and beverages,98.97
+p613,Fashion accessories,93.22
+p614,Sports and travel,80.93
+p615,Food and beverages,67.45
+p616,Sports and travel,38.72
+p617,Sports and travel,72.6
+p618,Electronic accessories,87.91
+p619,Food and beverages,98.53
+p620,Fashion accessories,43.46
+p621,Food and beverages,71.68
+p622,Food and beverages,91.61
+p623,Home and lifestyle,94.59
+p624,Fashion accessories,83.25
+p625,Fashion accessories,91.35
+p626,Food and beverages,78.88
+p627,Sports and travel,60.87
+p628,Health and beauty,82.58
+p629,Home and lifestyle,53.3
+p630,Fashion accessories,12.09
+p631,Sports and travel,64.19
+p632,Electronic accessories,78.31
+p633,Food and beverages,83.77
+p634,Home and lifestyle,99.7
+p635,Food and beverages,79.91
+p636,Health and beauty,66.47
+p637,Health and beauty,28.95
+p638,Electronic accessories,46.2
+p639,Food and beverages,17.63
+p640,Fashion accessories,52.42
+p641,Food and beverages,98.79
+p642,Electronic accessories,88.55
+p643,Electronic accessories,55.67
+p644,Food and beverages,72.52
+p645,Electronic accessories,12.05
+p646,Home and lifestyle,19.36
+p647,Health and beauty,70.21
+p648,Fashion accessories,33.63
+p649,Sports and travel,15.49
+p650,Electronic accessories,24.74
+p651,Electronic accessories,75.66
+p652,Health and beauty,55.81
+p653,Home and lifestyle,72.78
+p654,Sports and travel,37.32
+p655,Fashion accessories,60.18
+p656,Electronic accessories,15.69
+p657,Electronic accessories,99.69
+p658,Fashion accessories,88.15
+p659,Sports and travel,27.93
+p660,Fashion accessories,55.45
+p661,Sports and travel,42.97
+p662,Sports and travel,17.14
+p663,Fashion accessories,58.75
+p664,Food and beverages,87.1
+p665,Sports and travel,98.8
+p666,Fashion accessories,48.63
+p667,Food and beverages,57.74
+p668,Health and beauty,17.97
+p669,Health and beauty,47.71
+p670,Sports and travel,40.62
+p671,Fashion accessories,56.04
+p672,Food and beverages,93.4
+p673,Health and beauty,73.41
+p674,Health and beauty,33.64
+p675,Electronic accessories,45.48
+p676,Fashion accessories,83.77
+p677,Sports and travel,64.08
+p678,Food and beverages,73.47
+p679,Health and beauty,58.95
+p680,Food and beverages,48.5
+p681,Electronic accessories,39.48
+p682,Sports and travel,34.81
+p683,Fashion accessories,49.32
+p684,Fashion accessories,21.48
+p685,Sports and travel,23.08
+p686,Home and lifestyle,49.1
+p687,Sports and travel,64.83
+p688,Home and lifestyle,63.56
+p689,Sports and travel,72.88
+p690,Food and beverages,67.1
+p691,Sports and travel,70.19
+p692,Food and beverages,55.04
+p693,Health and beauty,48.63
+p694,Fashion accessories,73.38
+p695,Food and beverages,52.6
+p696,Home and lifestyle,87.37
+p697,Sports and travel,27.04
+p698,Home and lifestyle,62.19
+p699,Electronic accessories,69.58
+p700,Home and lifestyle,97.5
+p701,Fashion accessories,60.41
+p702,Food and beverages,32.32
+p703,Fashion accessories,19.77
+p704,Health and beauty,80.47
+p705,Home and lifestyle,88.39
+p706,Health and beauty,71.77
+p707,Electronic accessories,43
+p708,Food and beverages,68.98
+p709,Fashion accessories,15.62
+p710,Sports and travel,25.7
+p711,Food and beverages,80.62
+p712,Home and lifestyle,75.53
+p713,Electronic accessories,77.63
+p714,Health and beauty,13.85
+p715,Fashion accessories,98.7
+p716,Health and beauty,35.68
+p717,Fashion accessories,71.46
+p718,Electronic accessories,11.94
+p719,Fashion accessories,45.38
+p720,Fashion accessories,17.48
+p721,Fashion accessories,25.56
+p722,Sports and travel,90.63
+p723,Home and lifestyle,44.12
+p724,Food and beverages,36.77
+p725,Food and beverages,23.34
+p726,Health and beauty,28.5
+p727,Home and lifestyle,55.57
+p728,Sports and travel,69.74
+p729,Fashion accessories,97.26
+p730,Home and lifestyle,52.18
+p731,Fashion accessories,22.32
+p732,Health and beauty,56
+p733,Fashion accessories,19.7
+p734,Electronic accessories,75.88
+p735,Food and beverages,53.72
+p736,Health and beauty,81.95
+p737,Home and lifestyle,81.2
+p738,Electronic accessories,58.76
+p739,Electronic accessories,91.56
+p740,Home and lifestyle,93.96
+p741,Home and lifestyle,55.61
+p742,Food and beverages,84.83
+p743,Sports and travel,71.63
+p744,Home and lifestyle,37.69
+p745,Sports and travel,31.67
+p746,Food and beverages,38.42
+p747,Fashion accessories,65.23
+p748,Home and lifestyle,10.53
+p749,Home and lifestyle,12.29
+p750,Health and beauty,81.23
+p751,Fashion accessories,22.32
+p752,Food and beverages,27.28
+p753,Electronic accessories,17.42
+p754,Home and lifestyle,73.28
+p755,Fashion accessories,84.87
+p756,Fashion accessories,97.29
+p757,Electronic accessories,35.74
+p758,Home and lifestyle,96.52
+p759,Food and beverages,18.85
+p760,Food and beverages,55.39
+p761,Food and beverages,77.2
+p762,Electronic accessories,72.13
+p763,Fashion accessories,63.88
+p764,Health and beauty,10.69
+p765,Health and beauty,55.5
+p766,Home and lifestyle,95.46
+p767,Fashion accessories,76.06
+p768,Sports and travel,13.69
+p769,Electronic accessories,95.64
+p770,Home and lifestyle,11.43
+p771,Sports and travel,95.54
+p772,Health and beauty,85.87
+p773,Sports and travel,67.99
+p774,Food and beverages,52.42
+p775,Food and beverages,65.65
+p776,Food and beverages,28.86
+p777,Health and beauty,65.31
+p778,Sports and travel,93.38
+p779,Sports and travel,25.25
+p780,Electronic accessories,87.87
+p781,Health and beauty,21.8
+p782,Sports and travel,94.76
+p783,Fashion accessories,30.62
+p784,Home and lifestyle,44.01
+p785,Health and beauty,10.16
+p786,Electronic accessories,74.58
+p787,Electronic accessories,71.89
+p788,Health and beauty,10.99
+p789,Health and beauty,60.47
+p790,Sports and travel,58.91
+p791,Fashion accessories,46.41
+p792,Health and beauty,68.55
+p793,Home and lifestyle,97.37
+p794,Electronic accessories,92.6
+p795,Electronic accessories,46.61
+p796,Fashion accessories,27.18
+p797,Home and lifestyle,60.87
+p798,Sports and travel,24.49
+p799,Health and beauty,92.78
+p800,Home and lifestyle,86.69
+p801,Sports and travel,23.01
+p802,Electronic accessories,30.2
+p803,Fashion accessories,67.39
+p804,Fashion accessories,48.96
+p805,Electronic accessories,75.59
+p806,Home and lifestyle,77.47
+p807,Sports and travel,93.18
+p808,Electronic accessories,50.23
+p809,Health and beauty,17.75
+p810,Fashion accessories,62.18
+p811,Health and beauty,10.75
+p812,Electronic accessories,40.26
+p813,Sports and travel,64.97
+p814,Electronic accessories,95.15
+p815,Electronic accessories,48.62
+p816,Food and beverages,53.21
+p817,Fashion accessories,45.44
+p818,Food and beverages,33.88
+p819,Health and beauty,96.16
+p820,Food and beverages,47.16
+p821,Electronic accessories,52.89
+p822,Home and lifestyle,47.68
+p823,Sports and travel,10.17
+p824,Health and beauty,68.71
+p825,Sports and travel,60.08
+p826,Sports and travel,22.01
+p827,Health and beauty,72.11
+p828,Fashion accessories,41.28
+p829,Electronic accessories,64.95
+p830,Electronic accessories,74.22
+p831,Electronic accessories,10.56
+p832,Health and beauty,62.57
+p833,Sports and travel,11.85
+p834,Health and beauty,91.3
+p835,Home and lifestyle,40.73
+p836,Fashion accessories,52.38
+p837,Fashion accessories,38.54
+p838,Sports and travel,44.63
+p839,Electronic accessories,55.87
+p840,Sports and travel,29.22
+p841,Fashion accessories,51.94
+p842,Electronic accessories,60.3
+p843,Sports and travel,39.47
+p844,Food and beverages,14.87
+p845,Fashion accessories,21.32
+p846,Electronic accessories,93.78
+p847,Electronic accessories,73.26
+p848,Sports and travel,22.38
+p849,Food and beverages,72.88
+p850,Fashion accessories,99.1
+p851,Fashion accessories,74.1
+p852,Fashion accessories,98.48
+p853,Health and beauty,53.19
+p854,Electronic accessories,52.79
+p855,Health and beauty,95.95
+p856,Fashion accessories,36.51
+p857,Food and beverages,21.12
+p858,Home and lifestyle,28.31
+p859,Health and beauty,57.59
+p860,Food and beverages,47.63
+p861,Home and lifestyle,86.27
+p862,Sports and travel,12.76
+p863,Home and lifestyle,11.28
+p864,Home and lifestyle,51.07
+p865,Electronic accessories,79.59
+p866,Health and beauty,33.81
+p867,Sports and travel,90.53
+p868,Health and beauty,62.82
+p869,Food and beverages,24.31
+p870,Sports and travel,64.59
+p871,Food and beverages,24.82
+p872,Fashion accessories,56.5
+p873,Electronic accessories,21.43
+p874,Sports and travel,89.06
+p875,Home and lifestyle,23.29
+p876,Home and lifestyle,65.26
+p877,Fashion accessories,52.35
+p878,Electronic accessories,39.75
+p879,Electronic accessories,90.02
+p880,Electronic accessories,12.1
+p881,Food and beverages,33.21
+p882,Fashion accessories,10.18
+p883,Sports and travel,31.99
+p884,Home and lifestyle,34.42
+p885,Food and beverages,83.34
+p886,Sports and travel,45.58
+p887,Food and beverages,87.9
+p888,Electronic accessories,73.47
+p889,Fashion accessories,12.19
+p890,Sports and travel,76.92
+p891,Health and beauty,83.66
+p892,Electronic accessories,57.91
+p893,Fashion accessories,92.49
+p894,Electronic accessories,28.38
+p895,Electronic accessories,50.45
+p896,Health and beauty,99.16
+p897,Fashion accessories,60.74
+p898,Food and beverages,47.27
+p899,Health and beauty,85.6
+p900,Food and beverages,35.04
+p901,Electronic accessories,44.84
+p902,Home and lifestyle,45.97
+p903,Health and beauty,27.73
+p904,Food and beverages,11.53
+p905,Health and beauty,58.32
+p906,Home and lifestyle,78.38
+p907,Health and beauty,84.61
+p908,Health and beauty,82.88
+p909,Food and beverages,79.54
+p910,Home and lifestyle,49.01
+p911,Food and beverages,29.15
+p912,Electronic accessories,56.13
+p913,Home and lifestyle,93.12
+p914,Fashion accessories,51.34
+p915,Food and beverages,99.6
+p916,Electronic accessories,35.49
+p917,Sports and travel,42.85
+p918,Fashion accessories,94.67
+p919,Home and lifestyle,68.97
+p920,Electronic accessories,26.26
+p921,Home and lifestyle,35.79
+p922,Home and lifestyle,16.37
+p923,Home and lifestyle,12.73
+p924,Sports and travel,83.14
+p925,Sports and travel,35.22
+p926,Electronic accessories,13.78
+p927,Sports and travel,88.31
+p928,Health and beauty,39.62
+p929,Electronic accessories,88.25
+p930,Sports and travel,25.31
+p931,Home and lifestyle,99.92
+p932,Fashion accessories,83.35
+p933,Food and beverages,74.44
+p934,Health and beauty,64.08
+p935,Home and lifestyle,63.15
+p936,Home and lifestyle,85.72
+p937,Health and beauty,78.89
+p938,Sports and travel,89.48
+p939,Health and beauty,92.09
+p940,Food and beverages,57.29
+p941,Food and beverages,66.52
+p942,Fashion accessories,99.82
+p943,Home and lifestyle,45.68
+p944,Health and beauty,50.79
+p945,Health and beauty,10.08
+p946,Electronic accessories,93.88
+p947,Electronic accessories,84.25
+p948,Fashion accessories,53.78
+p949,Home and lifestyle,35.81
+p950,Food and beverages,26.43
+p951,Health and beauty,39.91
+p952,Home and lifestyle,21.9
+p953,Food and beverages,62.85
+p954,Food and beverages,21.04
+p955,Home and lifestyle,65.91
+p956,Fashion accessories,42.57
+p957,Food and beverages,50.49
+p958,Electronic accessories,46.02
+p959,Home and lifestyle,15.8
+p960,Food and beverages,98.66
+p961,Fashion accessories,91.98
+p962,Electronic accessories,20.89
+p963,Fashion accessories,15.5
+p964,Electronic accessories,96.82
+p965,Food and beverages,33.33
+p966,Electronic accessories,38.27
+p967,Home and lifestyle,33.3
+p968,Home and lifestyle,81.01
+p969,Health and beauty,15.8
+p970,Electronic accessories,34.49
+p971,Food and beverages,84.63
+p972,Home and lifestyle,36.91
+p973,Electronic accessories,87.08
+p974,Home and lifestyle,80.08
+p975,Fashion accessories,86.13
+p976,Fashion accessories,49.92
+p977,Food and beverages,74.66
+p978,Food and beverages,26.6
+p979,Electronic accessories,25.45
+p980,Food and beverages,67.77
+p981,Food and beverages,59.59
+p982,Health and beauty,58.15
+p983,Sports and travel,97.48
+p984,Health and beauty,99.96
+p985,Electronic accessories,96.37
+p986,Fashion accessories,63.71
+p987,Health and beauty,14.76
+p988,Health and beauty,62
+p989,Electronic accessories,82.34
+p990,Health and beauty,75.37
+p991,Food and beverages,56.56
+p992,Sports and travel,76.6
+p993,Electronic accessories,58.03
+p994,Fashion accessories,17.49
+p995,Electronic accessories,60.95
+p996,Health and beauty,40.35
+p997,Home and lifestyle,97.38
+p998,Food and beverages,31.84
+p999,Home and lifestyle,65.82
+p1000,Fashion accessories,88.34
